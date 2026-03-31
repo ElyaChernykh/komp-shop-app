@@ -1,1 +1,1 @@
-# comp-shop-app
+# komp-shop-app
